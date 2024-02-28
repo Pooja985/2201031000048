@@ -1,0 +1,117 @@
+.home-child {
+    position: absolute;
+    top: 160px;
+    left: 778px;
+    width: 585px;
+    height: 820px;
+    object-fit: cover;
+  }
+  .games-for-those {
+    position: absolute;
+    top: 160px;
+    left: 74px;
+    display: inline-block;
+    width: 613px;
+    height: 408px;
+    text-shadow: 1px 0 0#a815db, 0 1px 0#a815db, -1px 0 0#a815db, 0-1px 0#a815db;
+  }
+  .even-the-all-powerful {
+    margin: 0;
+  }
+  .even-the-all-powerful-container {
+    position: absolute;
+    top: 559px;
+    left: 74px;
+    font-size: var(--font-size-13xl);
+    display: inline-block;
+    width: 676px;
+    height: 466px;
+  }
+  .expand-left-icon,
+  .expand-left-icon1 {
+    position: absolute;
+    top: 402px;
+    height: 184px;
+    cursor: pointer;
+  }
+  .expand-left-icon {
+    left: 1361px;
+    width: 79px;
+    object-fit: contain;
+  }
+  .expand-left-icon1 {
+    left: -2px;
+    width: 80px;
+  }
+  .navbar-child,
+  .navbar-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 111px;
+  }
+  .navbar-child {
+    background-color: var(--color-gray-100);
+    filter: blur(4px);
+    width: 100%;
+  }
+  .navbar-item {
+    width: 146px;
+    object-fit: cover;
+  }
+  .home1,
+  .our-games {
+    position: absolute;
+    top: 44px;
+    left: 367px;
+    display: inline-block;
+    width: 112px;
+    height: 23px;
+    cursor: pointer;
+  }
+  .home1 {
+    left: 269px;
+    width: 68px;
+  }
+  .our-studio {
+    left: 511px;
+    width: 123px;
+    cursor: pointer;
+  }
+  .blog,
+  .contact,
+  .our-studio {
+    position: absolute;
+    top: 44px;
+    display: inline-block;
+    height: 23px;
+  }
+  .blog {
+    left: 662px;
+    width: 67px;
+    cursor: pointer;
+  }
+  .contact {
+    left: 750px;
+    width: 115px;
+  }
+  .navbar {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 111px;
+    font-size: var(--font-size-xl);
+  }
+  .home {
+    width: 100%;
+    position: relative;
+    background-color: var(--color-black);
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-61xl);
+    color: var(--color-white);
+    font-family: var(--font-inter);
+  }
+  

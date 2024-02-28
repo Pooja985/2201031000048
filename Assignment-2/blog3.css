@@ -1,0 +1,152 @@
+.blog8 {
+  margin: 0;
+}
+.stay-current-with3 {
+  margin: 0;
+  font-size: var(--font-size-5xl);
+}
+.blog-stay-current-container3,
+.blog-stay-current-container4 {
+  text-shadow: 1px 0 0#a815db, 0 1px 0#a815db, -1px 0 0#a815db, 0-1px 0#a815db;
+}
+.blog-stay-current-container3 {
+  position: absolute;
+  top: 0;
+  left: 488px;
+  display: inline-block;
+  width: 464px;
+}
+.blog-stay-current-container4 {
+  top: 125px;
+  left: -9px;
+  width: 100%;
+}
+.blog-stay-current-container4,
+.far-far-away3,
+.we-make-beautiful1 {
+  position: absolute;
+  display: inline-block;
+}
+.we-make-beautiful1 {
+  top: 793px;
+  left: 386px;
+  width: 667px;
+  height: 58px;
+  text-shadow: 1px 0 0#a815db, 0 1px 0#a815db, -1px 0 0#a815db, 0-1px 0#a815db;
+}
+.far-far-away3 {
+  top: 865px;
+  left: 101px;
+  font-size: var(--font-size-5xl);
+  text-align: left;
+  width: 1234px;
+}
+.blog3-item {
+  position: absolute;
+  top: 241px;
+  left: 103px;
+  width: 1233px;
+  height: 506px;
+  object-fit: cover;
+}
+.vuesaxboldarrow-circle-right-icon3 {
+  position: absolute;
+  height: 10.97%;
+  width: 99.58%;
+  top: 43.72%;
+  right: 0.62%;
+  bottom: 45.31%;
+  left: -0.2%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.navbar-child2,
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 111px;
+}
+.rectangle-div {
+  background-color: var(--color-gray-100);
+  filter: blur(4px);
+  width: 100%;
+}
+.navbar-child2 {
+  width: 146px;
+  object-fit: cover;
+}
+.blog10,
+.contact4,
+.home5,
+.our-games4,
+.our-studio4 {
+  position: absolute;
+  top: 44px;
+  left: 367px;
+  display: inline-block;
+  width: 112px;
+  height: 23px;
+  cursor: pointer;
+}
+.blog10,
+.contact4,
+.home5,
+.our-studio4 {
+  left: 269px;
+  width: 68px;
+}
+.blog10,
+.contact4,
+.our-studio4 {
+  left: 511px;
+  width: 123px;
+}
+.blog10,
+.contact4 {
+  left: 662px;
+  width: 67px;
+}
+.contact4 {
+  left: 750px;
+  width: 115px;
+}
+.navbar2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 111px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+}
+.blog32 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+
+.expand-left-icon,
+.expand-left-icon1 {
+  position: absolute;
+  top: 402px;
+  height: 184px;
+  cursor: pointer;
+}
+.expand-left-icon {
+  left: 1361px;
+  width: 79px;
+  object-fit: contain;
+}
+.expand-left-icon1 {
+  left: -2px;
+  width: 80px;
+}

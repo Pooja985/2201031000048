@@ -1,0 +1,237 @@
+.our-games5 {
+  position: absolute;
+  top: 131px;
+  left: 73px;
+  font-size: var(--font-size-45xl);
+  display: inline-block;
+  width: 365px;
+  height: 76px;
+  text-shadow: 1px 0 0#a815db, 0 1px 0#a815db, -1px 0 0#a815db, 0-1px 0#a815db;
+}
+.navbar-child3,
+.navbar-child4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 111px;
+}
+.navbar-child3 {
+  background-color: var(--color-gray-100);
+  filter: blur(4px);
+  width: 100%;
+}
+.navbar-child4 {
+  width: 146px;
+  object-fit: cover;
+}
+.blog11,
+.contact5,
+.home6,
+.our-games6,
+.our-studio5 {
+  position: absolute;
+  top: 44px;
+  left: 367px;
+  display: inline-block;
+  width: 112px;
+  height: 23px;
+}
+.blog11,
+.contact5,
+.home6,
+.our-studio5 {
+  left: 269px;
+  width: 68px;
+  cursor: pointer;
+}
+.blog11,
+.contact5,
+.our-studio5 {
+  left: 511px;
+  width: 123px;
+}
+.blog11,
+.contact5 {
+  left: 662px;
+  width: 66px;
+}
+.contact5 {
+  left: 750px;
+  width: 115px;
+}
+.navbar3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 111px;
+  font-size: var(--font-size-xl);
+}
+.game1-child {
+  position: absolute;
+  top: 238px;
+  left: -2px;
+  background-color: var(--color-gray-200);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 420.4px;
+  height: 133px;
+}
+.racing-series {
+  margin: 0;
+}
+.racing-series-even-container {
+  position: absolute;
+  top: 244px;
+  left: 4px;
+  display: inline-block;
+  width: 403.4px;
+  height: 115px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.game1-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 415px;
+  height: 236px;
+  object-fit: cover;
+}
+.game1,
+.game3-item {
+  position: absolute;
+  top: 230px;
+  left: 48px;
+  width: 416.4px;
+  height: 369px;
+}
+.game3-item {
+  top: 0;
+  left: 1px;
+  width: 415px;
+  height: 236px;
+  object-fit: cover;
+}
+.world-war-even-container {
+  position: absolute;
+  top: 244px;
+  left: 9px;
+  display: inline-block;
+  width: 404px;
+  height: 115px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.game3,
+.game5-child {
+  position: absolute;
+  top: 231px;
+  left: 975px;
+  width: 416.4px;
+  height: 369px;
+}
+.game5-child {
+  top: 239px;
+  left: -1px;
+  background-color: var(--color-gray-200);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 420.4px;
+  height: 133px;
+}
+.grab-your-rifle {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.sniper-elite-vr-container {
+  position: absolute;
+  top: 246px;
+  left: 6px;
+  display: inline-block;
+  width: 409px;
+  height: 117px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.game5 {
+  position: absolute;
+  top: 621px;
+  left: 511px;
+  width: 417.4px;
+  height: 370px;
+}
+.lost-ark-even-container {
+  position: absolute;
+  top: 244px;
+  left: 8px;
+  display: inline-block;
+  width: 406px;
+  height: 115px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.game2-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 416.4px;
+  height: 236px;
+  object-fit: cover;
+}
+.game2,
+.game4-item {
+  position: absolute;
+  top: 231px;
+  left: 512px;
+  width: 416.4px;
+  height: 369px;
+}
+.game4-item {
+  top: 239px;
+  left: -2px;
+  background-color: var(--color-gray-200);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 420.4px;
+  height: 133px;
+}
+.tennis-esports-tennis-container {
+  position: absolute;
+  top: 248px;
+  left: 4px;
+  display: inline-block;
+  width: 412px;
+  height: 115px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.game4 {
+  position: absolute;
+  top: 621px;
+  left: 48px;
+  width: 416.4px;
+  height: 370px;
+}
+.adrift-adrift-is-container {
+  position: absolute;
+  top: 243px;
+  left: 9px;
+  display: inline-block;
+  width: 404px;
+  height: 120px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.game6 {
+  position: absolute;
+  top: 621px;
+  left: 975px;
+  width: 416.4px;
+  height: 370px;
+}
+.ourgames {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}

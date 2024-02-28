@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  cursor: pointer;
+}
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-kaisei-harunoumi: "Kaisei HarunoUmi";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-13xl: 32px;
+  --font-size-61xl: 80px;
+  --font-size-5xl: 24px;
+  --font-size-29xl: 48px;
+  --font-size-45xl: 64px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-gray-100: #2a2a2a;
+  --color-gray-200: #29292a;
+  --color-darkviolet: #a815db;
+}

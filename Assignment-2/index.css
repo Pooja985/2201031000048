@@ -1,0 +1,106 @@
+.index-child {
+  position: absolute;
+  top: 114px;
+  left: 0;
+  width: 100%;
+  height: 913px;
+  object-fit: cover;
+}
+.expand-left-icon2,
+.expand-left-icon3 {
+  position: absolute;
+  top: 402px;
+  left: -2px;
+  width: 80px;
+  height: 184px;
+  cursor: pointer;
+}
+.expand-left-icon3 {
+  left: 1361px;
+  width: 79px;
+  object-fit: contain;
+}
+.we-develop-games {
+  margin: 0;
+}
+.we-develop-games-container {
+  position: absolute;
+  top: 224px;
+  left: 93px;
+  line-height: 120px;
+  display: inline-block;
+  width: 592px;
+  height: 738px;
+  text-shadow: 1px 0 0#a815db, 0 1px 0#a815db, -1px 0 0#a815db, 0-1px 0#a815db;
+}
+.navbar-child7,
+.navbar-child8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 111px;
+}
+.navbar-child7 {
+  background-color: var(--color-gray-100);
+  filter: blur(4px);
+  width: 100%;
+}
+.navbar-child8 {
+  width: 146px;
+  object-fit: cover;
+}
+.home8,
+.our-games8 {
+  position: absolute;
+  top: 44px;
+  left: 367px;
+  display: inline-block;
+  width: 112px;
+  height: 23px;
+  cursor: pointer;
+}
+.home8 {
+  left: 269px;
+  width: 68px;
+}
+.our-studio7 {
+  left: 511px;
+  width: 123px;
+  cursor: pointer;
+}
+.blog13,
+.contact9,
+.our-studio7 {
+  position: absolute;
+  top: 44px;
+  display: inline-block;
+  height: 23px;
+}
+.blog13 {
+  left: 662px;
+  width: 52px;
+  cursor: pointer;
+}
+.contact9 {
+  left: 750px;
+  width: 115px;
+}
+.navbar5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 111px;
+  font-size: var(--font-size-xl);
+}
+.index {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-61xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
